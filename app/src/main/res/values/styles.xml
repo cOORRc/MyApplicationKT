@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="text_fontsize16">
+        <item name="android:fontFamily">@font/noto_sans_thai_medium</item>
+        <item name="android:textSize">@dimen/text_16</item>
+
+    </style>
+    <style name="text_fontsize16.bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="text_fontsize20">
+        <item name="android:fontFamily">@font/noto_sans_thai_bold</item>
+        <item name="android:textSize">@dimen/text_20</item>
+
+    </style>
+    <style name="text_fontsize24">
+        <item name="android:fontFamily">@font/noto_sans_thai_bold</item>
+        <item name="android:textSize">@dimen/text_24</item>
+
+    </style>
+    <style name="FormButton" parent="Widget.MaterialComponents.Button.TextButton">
+        <item name="android:fontFamily">@font/noto_sans_thai_medium</item>
+        <item name="android:textSize">@dimen/text_16</item>
+        <item name="android:textColor">@color/color_ui</item>
+        <item name="android:backgroundTint">@color/green_ber</item>
+        <item name="cornerRadius">@dimen/f_corner</item>
+
+    </style>
+
+
+</resources>

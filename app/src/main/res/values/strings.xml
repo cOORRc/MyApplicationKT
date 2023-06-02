@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PT Warehouse</string>
+    <string name="app_welcome">ยินดีต้อนรับ</string>
+    <string name="app_username">ชื่อผู้ใช้</string>
+    <string name="app_password">รหัสผ่าน</string>
+    <string name="app_requiredUser">กรุณากรอกชื่อผู้ใช้งาน</string>
+    <string name="app_submit">ยืนยัน</string>
+    <string name="app_okey">ตกลง</string>
+    <string name="app_cancal">ยกเลิก</string>
+    <string name="app_login">เข้าสู่ระบบ</string>
+    <string name="app_regis">ลงทะเบียน</string>
+    <string name="app_regis_name">ชื่อ</string>
+    <string name="app_regis_last">นามสกุล</string>
+    <string name="app_regis_prosi">ตำแหน่ง</string>
+    <string name="app_close">ปิด</string>
+    <string name="app_engine_oil">น้ำมันครื่อง</string>
+    <string name="app_requiredPass">กรอกรหัสผ่าน 8 ตัว</string>
+    <string name="app_requiredVerify">กรุณาตรวจสอบข้อมูลอีกครั้ง</string>
+    <string name="app_scanQR">คุณสามารถสแกนบาร์โค้ดหรือคิวอาร์โค้ด\nเพื่อเข้าถึงข้อมูลสินค้า</string>
+    <string name="app_detail">รายละเอียด :</string>
+    <string name="app_location">Location</string>
+    <string name="app_stock">Stock</string>
+    <string name="app_scan_product">จ่ายสินค้า</string>
+    <string name="app_product">สินค้า</string>
+    <string name="app_notRegis">ยังไม่ได้ลงทะเบียน?? </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--    <string name="app_"></string>
+    <string name="app_"></string>
+    <string name="app_"></string>-->
+
+
+</resources>

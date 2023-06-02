@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/OffWife/Desktop/flutter_bootcamp/MyApplicationKT/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.224" />
+        <entry key="..\:/Users/OffWife/Desktop/flutter_bootcamp/MyApplicationKT/app/src/main/res/drawable/ic_launcher_background.xml" value="0.224" />
+        <entry key="..\:/Users/OffWife/Desktop/flutter_bootcamp/MyApplicationKT/app/src/main/res/drawable/ic_oil.xml" value="0.2705" />
+        <entry key="..\:/Users/OffWife/Desktop/flutter_bootcamp/MyApplicationKT/app/src/main/res/drawable/ic_qr_code_scanner.xml" value="0.2705" />
+        <entry key="..\:/Users/OffWife/Desktop/flutter_bootcamp/MyApplicationKT/app/src/main/res/drawable/ic_storage.xml" value="0.2705" />
+        <entry key="..\:/Users/OffWife/Desktop/flutter_bootcamp/MyApplicationKT/app/src/main/res/drawable/shape_button.xml" value="0.2325" />
+        <entry key="..\:/Users/OffWife/Desktop/flutter_bootcamp/MyApplicationKT/app/src/main/res/drawable/shape_card.xml" value="0.2325" />
+        <entry key="..\:/Users/OffWife/Desktop/flutter_bootcamp/MyApplicationKT/app/src/main/res/font/font_family.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/OffWife/Desktop/flutter_bootcamp/MyApplicationKT/app/src/main/res/font/font_styles.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/OffWife/Desktop/flutter_bootcamp/MyApplicationKT/app/src/main/res/layout-land/activity_main.xml" value="0.43333333333333335" />
+        <entry key="..\:/Users/OffWife/Desktop/flutter_bootcamp/MyApplicationKT/app/src/main/res/layout/activity_home_page.xml" value="0.2815533980582524" />
+        <entry key="..\:/Users/OffWife/Desktop/flutter_bootcamp/MyApplicationKT/app/src/main/res/layout/activity_login.xml" value="0.2815533980582524" />
+        <entry key="..\:/Users/OffWife/Desktop/flutter_bootcamp/MyApplicationKT/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/OffWife/Desktop/flutter_bootcamp/MyApplicationKT/app/src/main/res/layout/activity_main2.xml" value="0.13980333475844378" />
+        <entry key="..\:/Users/OffWife/Desktop/flutter_bootcamp/MyApplicationKT/app/src/main/res/layout/activity_scanner_page.xml" value="0.19153484395040615" />
+        <entry key="..\:/Users/OffWife/Desktop/flutter_bootcamp/MyApplicationKT/app/src/main/res/layout/fragment_product_page.xml" value="0.2851646002565199" />
+        <entry key="..\:/Users/OffWife/Desktop/flutter_bootcamp/MyApplicationKT/app/src/main/res/layout/fragment_scan_product_page.xml" value="0.2851646002565199" />
+        <entry key="..\:/Users/OffWife/Desktop/flutter_bootcamp/MyApplicationKT/app/src/main/res/layout/fragment_stock_page.xml" value="0.2851646002565199" />
+        <entry key="..\:/Users/OffWife/Desktop/flutter_bootcamp/MyApplicationKT/app/src/main/res/layout/scanner_layout.xml" value="0.26552655265526554" />
+        <entry key="..\:/Users/OffWife/Desktop/flutter_bootcamp/MyApplicationKT/app/src/main/res/menu/bottom_nav.xml" value="0.2851646002565199" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

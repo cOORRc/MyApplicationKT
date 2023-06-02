@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="3"
+    tools:context=".ScannerPage">
+
+    <com.budiyev.android.codescanner.CodeScannerView
+        android:id="@+id/scanner_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        app:autoFocusButtonVisible="true"
+        app:autoFocusButtonPosition="bottomStart"
+        app:flashButtonPosition="bottomEnd"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="2"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:id="@+id/tv_scanner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/app_scanQR"
+            android:gravity="center|top"
+            android:paddingTop="30dp"
+            style="@style/text_fontsize16.bold"
+            />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:layout_marginHorizontal="10dp"
+            android:paddingTop="10dp">
+            <TextView
+                android:id="@+id/tv_details"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/app_detail"
+                style="@style/text_fontsize16"
+                />
+            <TextView
+                android:id="@+id/tv_datascanner"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/app_location"
+                style="@style/text_fontsize16"
+                android:maxLines="1"
+                android:paddingLeft="10dp"
+                />
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+</LinearLayout>

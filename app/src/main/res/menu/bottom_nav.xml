@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_stock"
+        android:icon="@drawable/ic_storage"
+        android:title="@string/app_stock" />
+    <item
+        android:id="@+id/item_scan_product"
+        android:icon="@drawable/ic_qr_code_scanner"
+        android:title="@string/app_scan_product" />
+    <item
+        android:id="@+id/item_all_product"
+        android:icon="@drawable/ic_oil"
+        android:title="@string/app_product" />
+</menu>
